@@ -23,3 +23,7 @@ anydoor -h localhost # 设置 host 为 localhost
 
 anydoor -d /usr # 设置根目录为 /user
 ```
+### 添加执行权限
+chomd +x bin/anydoor
+### 执行
+bin/anydoor
